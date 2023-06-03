@@ -1,0 +1,15 @@
+D:\projects\c#\natural_number\bin\Debug\net7.0\natural_number.exe
+D:\projects\c#\natural_number\bin\Debug\net7.0\natural_number.deps.json
+D:\projects\c#\natural_number\bin\Debug\net7.0\natural_number.runtimeconfig.json
+D:\projects\c#\natural_number\bin\Debug\net7.0\natural_number.dll
+D:\projects\c#\natural_number\bin\Debug\net7.0\natural_number.pdb
+D:\projects\c#\natural_number\obj\Debug\net7.0\natural_number.csproj.AssemblyReference.cache
+D:\projects\c#\natural_number\obj\Debug\net7.0\natural_number.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\c#\natural_number\obj\Debug\net7.0\natural_number.AssemblyInfoInputs.cache
+D:\projects\c#\natural_number\obj\Debug\net7.0\natural_number.AssemblyInfo.cs
+D:\projects\c#\natural_number\obj\Debug\net7.0\natural_number.csproj.CoreCompileInputs.cache
+D:\projects\c#\natural_number\obj\Debug\net7.0\natural_number.dll
+D:\projects\c#\natural_number\obj\Debug\net7.0\refint\natural_number.dll
+D:\projects\c#\natural_number\obj\Debug\net7.0\natural_number.pdb
+D:\projects\c#\natural_number\obj\Debug\net7.0\natural_number.genruntimeconfig.cache
+D:\projects\c#\natural_number\obj\Debug\net7.0\ref\natural_number.dll

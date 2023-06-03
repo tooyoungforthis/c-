@@ -1,0 +1,15 @@
+D:\projects\c#\rsa\bin\Debug\net7.0\rsa.exe
+D:\projects\c#\rsa\bin\Debug\net7.0\rsa.deps.json
+D:\projects\c#\rsa\bin\Debug\net7.0\rsa.runtimeconfig.json
+D:\projects\c#\rsa\bin\Debug\net7.0\rsa.dll
+D:\projects\c#\rsa\bin\Debug\net7.0\rsa.pdb
+D:\projects\c#\rsa\obj\Debug\net7.0\rsa.csproj.AssemblyReference.cache
+D:\projects\c#\rsa\obj\Debug\net7.0\rsa.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\c#\rsa\obj\Debug\net7.0\rsa.AssemblyInfoInputs.cache
+D:\projects\c#\rsa\obj\Debug\net7.0\rsa.AssemblyInfo.cs
+D:\projects\c#\rsa\obj\Debug\net7.0\rsa.csproj.CoreCompileInputs.cache
+D:\projects\c#\rsa\obj\Debug\net7.0\rsa.dll
+D:\projects\c#\rsa\obj\Debug\net7.0\refint\rsa.dll
+D:\projects\c#\rsa\obj\Debug\net7.0\rsa.pdb
+D:\projects\c#\rsa\obj\Debug\net7.0\rsa.genruntimeconfig.cache
+D:\projects\c#\rsa\obj\Debug\net7.0\ref\rsa.dll

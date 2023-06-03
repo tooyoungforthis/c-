@@ -1,0 +1,15 @@
+D:\projects\c#\monte_carlo\bin\Debug\net7.0\monte_carlo.exe
+D:\projects\c#\monte_carlo\bin\Debug\net7.0\monte_carlo.deps.json
+D:\projects\c#\monte_carlo\bin\Debug\net7.0\monte_carlo.runtimeconfig.json
+D:\projects\c#\monte_carlo\bin\Debug\net7.0\monte_carlo.dll
+D:\projects\c#\monte_carlo\bin\Debug\net7.0\monte_carlo.pdb
+D:\projects\c#\monte_carlo\obj\Debug\net7.0\monte_carlo.csproj.AssemblyReference.cache
+D:\projects\c#\monte_carlo\obj\Debug\net7.0\monte_carlo.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\c#\monte_carlo\obj\Debug\net7.0\monte_carlo.AssemblyInfoInputs.cache
+D:\projects\c#\monte_carlo\obj\Debug\net7.0\monte_carlo.AssemblyInfo.cs
+D:\projects\c#\monte_carlo\obj\Debug\net7.0\monte_carlo.csproj.CoreCompileInputs.cache
+D:\projects\c#\monte_carlo\obj\Debug\net7.0\monte_carlo.dll
+D:\projects\c#\monte_carlo\obj\Debug\net7.0\refint\monte_carlo.dll
+D:\projects\c#\monte_carlo\obj\Debug\net7.0\monte_carlo.pdb
+D:\projects\c#\monte_carlo\obj\Debug\net7.0\monte_carlo.genruntimeconfig.cache
+D:\projects\c#\monte_carlo\obj\Debug\net7.0\ref\monte_carlo.dll

@@ -1,0 +1,15 @@
+D:\projects\c#\ceaser\bin\Debug\net7.0\ceaser.exe
+D:\projects\c#\ceaser\bin\Debug\net7.0\ceaser.deps.json
+D:\projects\c#\ceaser\bin\Debug\net7.0\ceaser.runtimeconfig.json
+D:\projects\c#\ceaser\bin\Debug\net7.0\ceaser.dll
+D:\projects\c#\ceaser\bin\Debug\net7.0\ceaser.pdb
+D:\projects\c#\ceaser\obj\Debug\net7.0\ceaser.csproj.AssemblyReference.cache
+D:\projects\c#\ceaser\obj\Debug\net7.0\ceaser.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\c#\ceaser\obj\Debug\net7.0\ceaser.AssemblyInfoInputs.cache
+D:\projects\c#\ceaser\obj\Debug\net7.0\ceaser.AssemblyInfo.cs
+D:\projects\c#\ceaser\obj\Debug\net7.0\ceaser.csproj.CoreCompileInputs.cache
+D:\projects\c#\ceaser\obj\Debug\net7.0\ceaser.dll
+D:\projects\c#\ceaser\obj\Debug\net7.0\refint\ceaser.dll
+D:\projects\c#\ceaser\obj\Debug\net7.0\ceaser.pdb
+D:\projects\c#\ceaser\obj\Debug\net7.0\ceaser.genruntimeconfig.cache
+D:\projects\c#\ceaser\obj\Debug\net7.0\ref\ceaser.dll

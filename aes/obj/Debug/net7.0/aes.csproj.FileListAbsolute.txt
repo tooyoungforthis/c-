@@ -1,0 +1,15 @@
+D:\projects\c#\aes\bin\Debug\net7.0\aes.exe
+D:\projects\c#\aes\bin\Debug\net7.0\aes.deps.json
+D:\projects\c#\aes\bin\Debug\net7.0\aes.runtimeconfig.json
+D:\projects\c#\aes\bin\Debug\net7.0\aes.dll
+D:\projects\c#\aes\bin\Debug\net7.0\aes.pdb
+D:\projects\c#\aes\obj\Debug\net7.0\aes.csproj.AssemblyReference.cache
+D:\projects\c#\aes\obj\Debug\net7.0\aes.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\c#\aes\obj\Debug\net7.0\aes.AssemblyInfoInputs.cache
+D:\projects\c#\aes\obj\Debug\net7.0\aes.AssemblyInfo.cs
+D:\projects\c#\aes\obj\Debug\net7.0\aes.csproj.CoreCompileInputs.cache
+D:\projects\c#\aes\obj\Debug\net7.0\aes.dll
+D:\projects\c#\aes\obj\Debug\net7.0\refint\aes.dll
+D:\projects\c#\aes\obj\Debug\net7.0\aes.pdb
+D:\projects\c#\aes\obj\Debug\net7.0\aes.genruntimeconfig.cache
+D:\projects\c#\aes\obj\Debug\net7.0\ref\aes.dll

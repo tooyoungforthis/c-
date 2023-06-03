@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "matrix_substraction/1.0.0": {
+        "runtime": {
+          "matrix_substraction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "matrix_substraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

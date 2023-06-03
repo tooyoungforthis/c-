@@ -1,0 +1,15 @@
+D:\projects\c#\pi_calculation\obj\Debug\net7.0\pi_calculation.csproj.AssemblyReference.cache
+D:\projects\c#\pi_calculation\obj\Debug\net7.0\pi_calculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\c#\pi_calculation\obj\Debug\net7.0\pi_calculation.AssemblyInfoInputs.cache
+D:\projects\c#\pi_calculation\obj\Debug\net7.0\pi_calculation.AssemblyInfo.cs
+D:\projects\c#\pi_calculation\obj\Debug\net7.0\pi_calculation.csproj.CoreCompileInputs.cache
+D:\projects\c#\pi_calculation\bin\Debug\net7.0\pi_calculation.exe
+D:\projects\c#\pi_calculation\bin\Debug\net7.0\pi_calculation.deps.json
+D:\projects\c#\pi_calculation\bin\Debug\net7.0\pi_calculation.runtimeconfig.json
+D:\projects\c#\pi_calculation\bin\Debug\net7.0\pi_calculation.dll
+D:\projects\c#\pi_calculation\bin\Debug\net7.0\pi_calculation.pdb
+D:\projects\c#\pi_calculation\obj\Debug\net7.0\pi_calculation.dll
+D:\projects\c#\pi_calculation\obj\Debug\net7.0\refint\pi_calculation.dll
+D:\projects\c#\pi_calculation\obj\Debug\net7.0\pi_calculation.pdb
+D:\projects\c#\pi_calculation\obj\Debug\net7.0\pi_calculation.genruntimeconfig.cache
+D:\projects\c#\pi_calculation\obj\Debug\net7.0\ref\pi_calculation.dll

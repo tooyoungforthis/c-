@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "xor_encoding/1.0.0": {
+        "runtime": {
+          "xor_encoding.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "xor_encoding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

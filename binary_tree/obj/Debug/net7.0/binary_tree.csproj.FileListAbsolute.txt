@@ -1,0 +1,15 @@
+D:\projects\c#\binary_tree\bin\Debug\net7.0\binary_tree.exe
+D:\projects\c#\binary_tree\bin\Debug\net7.0\binary_tree.deps.json
+D:\projects\c#\binary_tree\bin\Debug\net7.0\binary_tree.runtimeconfig.json
+D:\projects\c#\binary_tree\bin\Debug\net7.0\binary_tree.dll
+D:\projects\c#\binary_tree\bin\Debug\net7.0\binary_tree.pdb
+D:\projects\c#\binary_tree\obj\Debug\net7.0\binary_tree.csproj.AssemblyReference.cache
+D:\projects\c#\binary_tree\obj\Debug\net7.0\binary_tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\c#\binary_tree\obj\Debug\net7.0\binary_tree.AssemblyInfoInputs.cache
+D:\projects\c#\binary_tree\obj\Debug\net7.0\binary_tree.AssemblyInfo.cs
+D:\projects\c#\binary_tree\obj\Debug\net7.0\binary_tree.csproj.CoreCompileInputs.cache
+D:\projects\c#\binary_tree\obj\Debug\net7.0\binary_tree.dll
+D:\projects\c#\binary_tree\obj\Debug\net7.0\refint\binary_tree.dll
+D:\projects\c#\binary_tree\obj\Debug\net7.0\binary_tree.pdb
+D:\projects\c#\binary_tree\obj\Debug\net7.0\binary_tree.genruntimeconfig.cache
+D:\projects\c#\binary_tree\obj\Debug\net7.0\ref\binary_tree.dll

@@ -1,0 +1,15 @@
+D:\projects\c#\xor_encoding\bin\Debug\net7.0\xor_encoding.exe
+D:\projects\c#\xor_encoding\bin\Debug\net7.0\xor_encoding.deps.json
+D:\projects\c#\xor_encoding\bin\Debug\net7.0\xor_encoding.runtimeconfig.json
+D:\projects\c#\xor_encoding\bin\Debug\net7.0\xor_encoding.dll
+D:\projects\c#\xor_encoding\bin\Debug\net7.0\xor_encoding.pdb
+D:\projects\c#\xor_encoding\obj\Debug\net7.0\xor_encoding.csproj.AssemblyReference.cache
+D:\projects\c#\xor_encoding\obj\Debug\net7.0\xor_encoding.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\c#\xor_encoding\obj\Debug\net7.0\xor_encoding.AssemblyInfoInputs.cache
+D:\projects\c#\xor_encoding\obj\Debug\net7.0\xor_encoding.AssemblyInfo.cs
+D:\projects\c#\xor_encoding\obj\Debug\net7.0\xor_encoding.csproj.CoreCompileInputs.cache
+D:\projects\c#\xor_encoding\obj\Debug\net7.0\xor_encoding.dll
+D:\projects\c#\xor_encoding\obj\Debug\net7.0\refint\xor_encoding.dll
+D:\projects\c#\xor_encoding\obj\Debug\net7.0\xor_encoding.pdb
+D:\projects\c#\xor_encoding\obj\Debug\net7.0\xor_encoding.genruntimeconfig.cache
+D:\projects\c#\xor_encoding\obj\Debug\net7.0\ref\xor_encoding.dll

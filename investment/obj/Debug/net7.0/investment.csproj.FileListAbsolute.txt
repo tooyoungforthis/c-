@@ -1,0 +1,15 @@
+D:\projects\c#\investment\bin\Debug\net7.0\investment.exe
+D:\projects\c#\investment\bin\Debug\net7.0\investment.deps.json
+D:\projects\c#\investment\bin\Debug\net7.0\investment.runtimeconfig.json
+D:\projects\c#\investment\bin\Debug\net7.0\investment.dll
+D:\projects\c#\investment\bin\Debug\net7.0\investment.pdb
+D:\projects\c#\investment\obj\Debug\net7.0\investment.csproj.AssemblyReference.cache
+D:\projects\c#\investment\obj\Debug\net7.0\investment.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\c#\investment\obj\Debug\net7.0\investment.AssemblyInfoInputs.cache
+D:\projects\c#\investment\obj\Debug\net7.0\investment.AssemblyInfo.cs
+D:\projects\c#\investment\obj\Debug\net7.0\investment.csproj.CoreCompileInputs.cache
+D:\projects\c#\investment\obj\Debug\net7.0\investment.dll
+D:\projects\c#\investment\obj\Debug\net7.0\refint\investment.dll
+D:\projects\c#\investment\obj\Debug\net7.0\investment.pdb
+D:\projects\c#\investment\obj\Debug\net7.0\investment.genruntimeconfig.cache
+D:\projects\c#\investment\obj\Debug\net7.0\ref\investment.dll

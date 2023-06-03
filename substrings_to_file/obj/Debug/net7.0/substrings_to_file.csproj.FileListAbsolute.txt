@@ -1,0 +1,15 @@
+D:\projects\c#\substrings_to_file\obj\Debug\net7.0\substrings_to_file.csproj.AssemblyReference.cache
+D:\projects\c#\substrings_to_file\obj\Debug\net7.0\substrings_to_file.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\c#\substrings_to_file\obj\Debug\net7.0\substrings_to_file.AssemblyInfoInputs.cache
+D:\projects\c#\substrings_to_file\obj\Debug\net7.0\substrings_to_file.AssemblyInfo.cs
+D:\projects\c#\substrings_to_file\obj\Debug\net7.0\substrings_to_file.csproj.CoreCompileInputs.cache
+D:\projects\c#\substrings_to_file\bin\Debug\net7.0\substrings_to_file.exe
+D:\projects\c#\substrings_to_file\bin\Debug\net7.0\substrings_to_file.deps.json
+D:\projects\c#\substrings_to_file\bin\Debug\net7.0\substrings_to_file.runtimeconfig.json
+D:\projects\c#\substrings_to_file\bin\Debug\net7.0\substrings_to_file.dll
+D:\projects\c#\substrings_to_file\bin\Debug\net7.0\substrings_to_file.pdb
+D:\projects\c#\substrings_to_file\obj\Debug\net7.0\substrings_to_file.dll
+D:\projects\c#\substrings_to_file\obj\Debug\net7.0\refint\substrings_to_file.dll
+D:\projects\c#\substrings_to_file\obj\Debug\net7.0\substrings_to_file.pdb
+D:\projects\c#\substrings_to_file\obj\Debug\net7.0\substrings_to_file.genruntimeconfig.cache
+D:\projects\c#\substrings_to_file\obj\Debug\net7.0\ref\substrings_to_file.dll

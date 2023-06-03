@@ -1,0 +1,15 @@
+D:\projects\c#\consonants and vowels\obj\Debug\net7.0\consonants and vowels.csproj.AssemblyReference.cache
+D:\projects\c#\consonants and vowels\obj\Debug\net7.0\consonants and vowels.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\c#\consonants and vowels\obj\Debug\net7.0\consonants and vowels.AssemblyInfoInputs.cache
+D:\projects\c#\consonants and vowels\obj\Debug\net7.0\consonants and vowels.AssemblyInfo.cs
+D:\projects\c#\consonants and vowels\obj\Debug\net7.0\consonants and vowels.csproj.CoreCompileInputs.cache
+D:\projects\c#\consonants and vowels\bin\Debug\net7.0\consonants and vowels.exe
+D:\projects\c#\consonants and vowels\bin\Debug\net7.0\consonants and vowels.deps.json
+D:\projects\c#\consonants and vowels\bin\Debug\net7.0\consonants and vowels.runtimeconfig.json
+D:\projects\c#\consonants and vowels\bin\Debug\net7.0\consonants and vowels.dll
+D:\projects\c#\consonants and vowels\bin\Debug\net7.0\consonants and vowels.pdb
+D:\projects\c#\consonants and vowels\obj\Debug\net7.0\consonants and vowels.dll
+D:\projects\c#\consonants and vowels\obj\Debug\net7.0\refint\consonants and vowels.dll
+D:\projects\c#\consonants and vowels\obj\Debug\net7.0\consonants and vowels.pdb
+D:\projects\c#\consonants and vowels\obj\Debug\net7.0\consonants and vowels.genruntimeconfig.cache
+D:\projects\c#\consonants and vowels\obj\Debug\net7.0\ref\consonants and vowels.dll
